@@ -1,0 +1,72 @@
+
+.resimOrtala {
+    display: block;
+    margin: auto;
+}
+
+.yaziOrtala {
+    text-align: center;
+
+}
+
+.padding{
+    padding-top: 15px;
+    
+
+}
+
+.aramaKutusu {
+    margin: auto;
+    display: block;
+    border: 0.1px solid black;
+}
+
+.griAlan {
+    background-color: rgba(192, 192, 192, 0.514);
+    width: 100%;
+}
+
+.maviKutu {
+    width: 50%;
+    height: 73px;
+    background-color: aqua;
+    padding-top: 12px;
+    padding-bottom: 8px;
+    margin-top: 1px;
+    
+}
+
+.yesilKutu {
+    width: 50%;
+    height: 73px;
+    background-color: rgba(42, 182, 124, 0.599);
+    padding-top: 12px;
+    padding-bottom: 8px;
+    margin-left: 4px;
+    margin-top: 1px;
+    
+}
+
+.aquaKutu {
+    width: 50%;
+    height: 73px;
+    background-color: rgb(87, 186, 199);
+    padding-top: 12px;
+    padding-bottom: 8px;
+    margin-left: 4px;
+    margin-top: 1px;
+    
+   
+}
+
+.kutular {
+    justify-content: space-between;
+    display: flex;
+}
+
+.altYazi {
+    margin-top: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+
+}
